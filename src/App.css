@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #001F3F;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h1{
+font-family: 'Hanalei Fill', cursive;
+  font-size: 100px!important;
+  color:white;
 }
